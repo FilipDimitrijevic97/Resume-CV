@@ -34,4 +34,8 @@ Welcome to my Resume repository! Here you'll find all the information you need t
 
 Thanks for visiting my Resume repository! Don't hesitate to reach out if you have any questions or opportunities for me.
 
+## Acknowledgements
+- Overleaf template: [Resume (CV)](https://www.overleaf.com/latex/templates/resume-cv/fbwkrgfrcsby)
+- Author: Meng
+
 ![alt text](https://media.giphy.com/media/jwFbMfYthIM6pttfjF/giphy.gif)
