@@ -1,6 +1,6 @@
 # Filip Dimitrijevic's Resume
 
-![alt text](https://media.giphy.com/media/jwFbMfYthIM6pttfjF/giphy.gif)
+:wave: Hi there!
 
 Welcome to my Resume repository! Here you'll find all the information you need to know about me and my professional experience.
 
@@ -34,4 +34,4 @@ Welcome to my Resume repository! Here you'll find all the information you need t
 
 Thanks for visiting my Resume repository! Don't hesitate to reach out if you have any questions or opportunities for me.
 
-![alt text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif "Resume on fire")
+![alt text](https://media.giphy.com/media/jwFbMfYthIM6pttfjF/giphy.gif)
