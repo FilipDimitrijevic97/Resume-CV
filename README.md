@@ -1,6 +1,6 @@
 # Filip Dimitrijevic's Resume
 
-![alt text](https://media.giphy.com/media/3o7TKzcP6CQjwQG1yc/giphy.gif "Resume on fire")
+![alt text](https://media.giphy.com/media/jwFbMfYthIM6pttfjF/giphy.gif)
 
 Welcome to my Resume repository! Here you'll find all the information you need to know about me and my professional experience.
 
